@@ -153,3 +153,12 @@ hr {
     width: 100%;
     margin: 5px;
 }
+
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: right;
+}
